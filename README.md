@@ -1,4 +1,4 @@
-<h1><em><b>Simple RPG Game / Jogo de RPG simples </b></em> <h1>
+Simple RPG Game / Jogo de RPG simples
 <p>This is a small executable RPG game made with java that I programmed in my spare time a few months ago and forgot to post kkk.</p>
 <p>Este é um pequeno jogo executável de RPG feito com java que eu programei em meu tempo livre a alguns meses e esqueci de postar kkk. </p>
 </br> 
