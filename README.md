@@ -1,11 +1,13 @@
-# RPG Game / Jogo de RPG
+<h1><em><b>Simple RPG Game / Jogo de RPG simples </b></em> <h1>
 <p>This is a small executable RPG game made with java that I programmed in my spare time a few months ago and forgot to post kkk.</p>
 <p>Este é um pequeno jogo executável de RPG feito com java que eu programei em meu tempo livre a alguns meses e esqueci de postar kkk. </p>
 </br> 
 <p><em><b>Languages:</b></em> </p>
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
-
+<p><em><b>I.D.E:</b></em> </p>
+<a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+</a>
 </br>
 
 <h1><b>Hello, my name is Thiago Hercules 👋</b><i class="fas fa-code"></i></h1>
