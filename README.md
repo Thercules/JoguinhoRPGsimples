@@ -6,7 +6,7 @@ Simple RPG Game / Jogo de RPG simples
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
 <p><em><b>I.D.E:</b></em> </p>
-<a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+<a href="#"><img src="https://img.shields.io/badge/Eclipse I.D.E-E94057?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 </a>
 </br>
 
